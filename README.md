@@ -1,2 +1,3 @@
-# HomeworkOne
-UCI Bootcamp Homework Assignment #1
+This repository demonstrates my aptitude to utilize Github.
+
+https://baseballbrad12.github.io/Intro-to-HTML-CSS/
